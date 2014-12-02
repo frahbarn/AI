@@ -1,0 +1,4 @@
+AI
+==
+
+first AI program 
